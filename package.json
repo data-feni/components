@@ -1,5 +1,5 @@
 {
-  "name": "demo-components",
+  "name": "@data-feni/demo-components",
   "version": "1.0.4",
   "description": "Demo components",
   "main": "index.js",
